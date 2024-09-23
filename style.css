@@ -1,0 +1,49 @@
+#heading {
+    text-align: center;
+}
+
+button {
+    background-color: #6482AD;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+h1 {
+    background-color: #6482AD;
+    color: azure;
+    border: solid black;
+    border-radius: 10px;
+}
+
+h2 {
+    display: block;
+    color: white;
+    background-color: #6482AD;
+    border: solid black;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    background-color: #6482AD;
+    color: white;
+    border: solid black;
+    border-radius: 10px;
+    margin: 10px;
+    height: 30px;
+    accent-color: blue;
+}
+
+html {
+    background-color: #F5EDED;
+}
+
+h3 {
+    color: #7FA1C3;
+}
